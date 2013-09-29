@@ -1,0 +1,9 @@
+[submodule "sources_non_forked/SrcExpl"]
+	path = sources_non_forked/SrcExpl
+	url = https://github.com/wesleyche/SrcExpl
+[submodule "sources_non_forked/Trinity"]
+	path = sources_non_forked/Trinity
+	url = https://github.com/wesleyche/Trinity.git
+[submodule "sources_non_forked/cscope.vim"]
+	path = sources_non_forked/cscope.vim
+	url = https://github.com/vim-scripts/cscope.vim.git

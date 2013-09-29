@@ -1,4 +1,4 @@
-# The Ultimate vimrc
+# The Ultimate vimrc(Thanks to amix)
 
 Over the last 8 years I have used and tweaked Vim. This is my Ultimate vimrc.
 
@@ -73,7 +73,9 @@ I recommend reading the docs of these plugins to understand them better. Each of
 * [taglist.vim](https://github.com/vim-scripts/taglist.vim): Source code browser (supports C/C++, java, perl, python, tcl, sql, php, etc)
 * [vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors): Sublime Text style multiple selections for Vim, CTRL+N is remapped to CTRL+S (due to YankRing)
 * [vim-expand-region](https://github.com/terryma/vim-expand-region): Allows you to visually select increasingly larger regions of text using the same key combination.
-
+* [SrcExpl](https://github.com/wesleyche/SrcExpl):SrcExpl (Source Explorer) is a source code explorer that provides context for the currently selected keyword by displaying the function or type definition or declaration in a separate window
+* [Trinity](https://github.com/wesleyche/Trinity.git):The Trinity plugin manages Source Explorer, Taglist and NERD Tree, and build them as a great IDE which works like the "Source Insignt".
+* [cscope.vim](https://github.com/vim-scripts/cscope.vim.git):This plugin helps you to create cscope database and connect to existing proper database automatically.
 
 ## What color schemes are included?
 

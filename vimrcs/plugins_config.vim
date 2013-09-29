@@ -99,3 +99,12 @@ let g:multi_cursor_next_key="\<C-s>"
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 vmap Si S(i_<esc>f)
 au FileType mako vmap Si S"i${ _(<esc>2f"a) }<esc>
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" => trinity.vim config
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+nmap <F8>   :TrinityToggleAll<CR> 
+nmap <F9>   :TrinityToggleSourceExplorer<CR> 
+nmap <F10>  :TrinityToggleTagList<CR> 
+nmap <F11>  :TrinityToggleNERDTree<CR> 
+
