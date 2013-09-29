@@ -23,6 +23,8 @@ This is useful to install on remote servers where you don't need many plugins an
 The awesome version includes a lot of great plugins, configurations and color schemes that make Vim a lot better. To install it simply do following:
 
 	git clone git://github.com/amix/vimrc.git ~/.vim_runtime
+	cd ~/.vim_runtime
+	git submodule update --init
 	sh ~/.vim_runtime/install_awesome_vimrc.sh
 
 
