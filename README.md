@@ -78,6 +78,7 @@ I recommend reading the docs of these plugins to understand them better. Each of
 * [SrcExpl](https://github.com/wesleyche/SrcExpl):SrcExpl (Source Explorer) is a source code explorer that provides context for the currently selected keyword by displaying the function or type definition or declaration in a separate window
 * [Trinity](https://github.com/wesleyche/Trinity.git):The Trinity plugin manages Source Explorer, Taglist and NERD Tree, and build them as a great IDE which works like the "Source Insignt".
 * [cscope.vim](https://github.com/vim-scripts/cscope.vim.git):This plugin helps you to create cscope database and connect to existing proper database automatically.
+* [DrawIt](https://github.com/vim-scripts/DrawIt):DrawIt! : Ascii drawing plugin: lines, ellipses, arrows, fills, and more! 
 
 ## What color schemes are included?
 

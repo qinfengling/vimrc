@@ -7,3 +7,6 @@
 [submodule "sources_non_forked/cscope.vim"]
 	path = sources_non_forked/cscope.vim
 	url = https://github.com/vim-scripts/cscope.vim.git
+[submodule "sources_non_forked/DrawIt"]
+	path = sources_non_forked/DrawIt
+	url = https://github.com/vim-scripts/DrawIt.git
