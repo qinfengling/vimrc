@@ -152,6 +152,8 @@ endif
 
 " Set utf8 as standard encoding and en_US as the standard language
 set encoding=utf8
+let &termencoding=&encoding
+set fileencodings=utf-8,gbk,ucs-bom,cp936
 
 " Use Unix as the standard file type
 set ffs=unix,dos,mac
@@ -170,14 +172,14 @@ set noswapfile
 " => Text, tab and indent related
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Use spaces instead of tabs
-set expandtab
+" set expandtab
 
 " Be smart when using tabs ;)
 set smarttab
 
 " 1 tab == 4 spaces
 set shiftwidth=4
-set tabstop=4
+" set tabstop=4
 
 " Linebreak on 500 characters
 set lbr
