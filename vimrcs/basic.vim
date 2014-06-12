@@ -172,14 +172,14 @@ set noswapfile
 " => Text, tab and indent related
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Use spaces instead of tabs
-" set expandtab
+set noexpandtab
 
 " Be smart when using tabs ;)
-set smarttab
+set nosmarttab
 
 " 1 tab == 4 spaces
 set shiftwidth=4
-" set tabstop=4
+set tabstop=8
 
 " Linebreak on 500 characters
 set lbr
