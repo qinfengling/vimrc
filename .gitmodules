@@ -10,3 +10,6 @@
 [submodule "sources_non_forked/DrawIt"]
 	path = sources_non_forked/DrawIt
 	url = https://github.com/vim-scripts/DrawIt.git
+[submodule "sources_non_forked/editorconfig"]
+	path = sources_non_forked/editorconfig
+	url = https://github.com/editorconfig/editorconfig-vim.git
