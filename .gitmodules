@@ -13,3 +13,6 @@
 [submodule "sources_non_forked/editorconfig"]
 	path = sources_non_forked/editorconfig
 	url = https://github.com/editorconfig/editorconfig-vim.git
+[submodule "sources_non_forked/mediawiki"]
+	path = sources_non_forked/mediawiki
+	url = https://github.com/chikamichi/mediawiki.vim
