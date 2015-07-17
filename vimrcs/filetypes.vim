@@ -52,3 +52,4 @@ function! CoffeeScriptFold()
     setl foldlevelstart=1
 endfunction
 au FileType coffee call CoffeeScriptFold()
+au BufNewFile,BufRead *.h set ft=c
