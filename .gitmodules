@@ -16,3 +16,6 @@
 [submodule "sources_non_forked/mediawiki"]
 	path = sources_non_forked/mediawiki
 	url = https://github.com/chikamichi/mediawiki.vim
+[submodule "sources_non_forked/syntastic"]
+	path = sources_non_forked/syntastic
+	url = https://github.com/scrooloose/syntastic.git
